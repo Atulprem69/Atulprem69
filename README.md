@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atulprem69&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
   &nbsp;&nbsp;
-  <img src="https://github-profile-trophy.vercel.app/?username=atulprem69&theme=radical&no-frame=true&margin-w=8" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=atulprem69&theme=flat&no-frame=true&margin-w=8" alt="trophies"/>
 </p>
 
 <hr/>
