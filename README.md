@@ -8,13 +8,10 @@
   Passionate developer & problem-solver who loves debugging tricky errors and shipping clean, performant code.
 </h3>
 
-<!-- ======  About Me – Pro Card  ====== -->
+<!-- ======  About Me – Static Pro Card  ====== -->
 <h3 align="center">🔥 About Me</h3>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atulprem69/atulprem69/main/assets/about-me-dark.svg">
-    <img alt="About Me" src="https://raw.githubusercontent.com/atulprem69/atulprem69/main/assets/about-me-light.svg" width="650">
-  </picture>
+  <img src="https://cardivo.vercel.app/api?name=Atul+Prem&description=Competitive+programmer+who+loves+learning+new+stuffs.%0AConstantly+exploring+bleeding-edge+technologies.%0APassionate+about+debugging+and+hyper-optimizing+code.&theme=radical&fontSize=22&center=true&width=650&height=120" alt="about-me-card"/>
 </p>
 
 <hr/>
