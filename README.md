@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
   </a>
 </p>
-
+<hr/>
 <!-- ======  Tech-stack badges (single line, responsive)  ====== -->
 <h3 align="left">🛠️ Tech Stack</h3>
 <p align="left">
