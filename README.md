@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atulprem69&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
   &nbsp;&nbsp;
-<img src="https://github-profile-trophy.vercel.app/?username=atulprem69&theme=gruvbox&no-frame=true&margin-w=8&row=2&column=6&includeStars=false&includeFollowers=false&includeIssues=false&includePullRequest=false&includeReview=false" alt="skill-trophies"/>
+<img src="https://streak-stats.demolab.com/?user=atulprem69&theme=react-dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=00ff00" width="49%"/>
 </p>
 
 <hr/>
