@@ -24,8 +24,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atulprem69&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
   &nbsp;&nbsp;
-<img src="https://img.shields.io/github/languages/code-size/atulprem69?label=%F0%9F%92%BE%20code%20size&style=flat-square&color=000000&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9IiMwMGZmMDAiIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZD0iTTggMEMzLjU4IDAgMCAzLjU4IDAgOHMzLjU4IDggOCA4IDgtMy41OCA4LTgtMy41OC04LTgtOHptMy45IDExLjQ2TDguNSA5LjA2VjE2aC0xVjkuMDZMMy4xIDE0LjQ2bC0uNzEtLjcxTDcuNzkgOEwzLjQgMy4yNWwuNzEtLjcxTDguNSA2Ljk0VjBoMXY2Ljk0bDMuOS0zLjY5LjcxLjcxTDguMjEgOGw0LjU5IDQuNDYtLjcxLjcxeiIvPjwvc3ZnPg=="/>
-<img src="https://img.shields.io/github/last-commit/atulprem69?label=%F0%9F%95%92%20last%20commit&style=flat-square&color=000000&logo=git&logoColor=00ff00"/>
+<img src="https://img.shields.io/github/issues/atulprem69?label=%F0%9F%93%8C%20open%20issues&style=flat-square&color=000000&logo=github&logoColor=ff00ff"/>
+<img src="https://img.shields.io/github/issues-closed/atulprem69?label=%E2%9C%94%20closed&style=flat-square&color=000000&logo=github&logoColor=00ff00"/>
 </p>
 
 <hr/>
