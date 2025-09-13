@@ -30,7 +30,7 @@
 <hr/>
 
 <!-- ======  Connect  ====== -->
-<h3 align="center">🔗 Connect with me</h3>
+<h2 align="center">🔗 Connect with me</h2>
 <p align="center">
   <a href="https://linkedin.com/in/atul-prem-1a7a24263" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
@@ -46,10 +46,10 @@
 <hr/>
 
 <!-- ======  Tech Stack  ====== -->
-<h3 align="center">🛠️ Tech Stack</h3>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <!-- Languages -->
-<h4 align="center">Languages</h4>
+<h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp"/>
@@ -60,7 +60,7 @@
 </p>
 
 <!-- Frontend -->
-<h4 align="center">Frontend</h4>
+<h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
@@ -71,7 +71,7 @@
 </p>
 
 <!-- Backend & DB -->
-<h4 align="center">Backend & Database</h4>
+<h3 align="center">Backend & Database</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"/>
@@ -83,7 +83,7 @@
 </p>
 
 <!-- DevOps & Cloud -->
-<h4 align="center">DevOps & Cloud</h4>
+<h3 align="center">DevOps & Cloud</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
@@ -93,7 +93,7 @@
 </p>
 
 <!-- AI / Mobile / Misc -->
-<h4 align="center">AI / Mobile / Misc</h4>
+<h3 align="center">AI / Mobile / Misc</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/>
