@@ -30,6 +30,14 @@
 
 <hr/>
 
+
+<!-- =====  Live Commit Radar (pro++ replacement for trophies)  ===== -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulprem69&theme=react-dark&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&hide_border=true&area=true&area_color=00ff0020" width="100%"/>
+</p>
+
+
+
 <!-- ======  Connect  ====== -->
 <h2 align="center">🔗 Connect with me</h2>
 <p align="center">
