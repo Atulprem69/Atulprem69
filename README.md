@@ -24,26 +24,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atulprem69&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
   &nbsp;&nbsp;
-<img src="https://img.shields.io/github/languages/code-size/atulprem69?color=00ff00&style=for-the-badge&logo=github&logoColor=black&label=💾%20size"/>
-  <img src="https://img.shields.io/github/last-commit/atulprem69?color=ff00ff&style=for-the-badge&logo=git&logoColor=white&label=🕒%20push"/>
-  <img src="https://img.shields.io/github/languages/count/atulprem69?color=00ffff&style=for-the-badge&logo=code&logoColor=black&label=🌐%20langs"/>
+<img src="https://github-profile-trophy.vercel.app/?username=atulprem69&theme=gruvbox&no-frame=true&margin-w=8" alt="trophies"/>
 </p>
 
 <hr/>
-
-
-
-
-<!-- =====  Elite Meta Row (100 % working)  ===== -->
-<p align="center">
-  <img src="https://img.shields.io/github/languages/code-size/atulprem69?color=00ff00&style=for-the-badge&logo=github&logoColor=black&label=💾%20size"/>
-  <img src="https://img.shields.io/github/last-commit/atulprem69?color=ff00ff&style=for-the-badge&logo=git&logoColor=white&label=🕒%20push"/>
-  <img src="https://img.shields.io/github/languages/count/atulprem69?color=00ffff&style=for-the-badge&logo=code&logoColor=black&label=🌐%20langs"/>
-</p>
-
-
-
-
 
 <!-- ======  Connect  ====== -->
 <h2 align="center">🔗 Connect with me</h2>
