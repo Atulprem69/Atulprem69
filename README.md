@@ -2,12 +2,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%2C%20I%27m%20Atul%20Prem&fontSize=50&fontAlignY=35&desc=Full-Stack%20%7C%20Mobile%20%7C%20AI%20%7C%20DevOps&descAlignY=55&animation=twinkling" width="100%"/>
 </p>
-<hr/>
+
 <!-- ======  Intro  ====== -->
 <h3 align="center">
   Passionate developer & problem-solver who loves debugging tricky errors and shipping clean, performant code.
 </h3>
-
+<hr/>
 <!-- ======  Stats row  ====== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atulprem69&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
