@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atulprem69&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
   &nbsp;&nbsp;
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulprem69&layout=compact&theme=react-dark&hide_border=true&bg_color=00000000&title_color=00ff00&text_color=ffffff&icon_color=39ff14" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atulprem69&theme=react-dark&bg_color=00000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true" width="100%"/>
 </p>
 
 <hr/>
