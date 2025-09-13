@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atulprem69&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
   &nbsp;&nbsp;
-  <img src="https://github-profile-trophy.vercel.app/?username=atulprem69&theme=neon&no-frame=true&margin-w=8" alt="trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulprem69&theme=neon&hide_border=true&border_radius=10&date_format=j%20M%20Y&background=000000&stroke=00ffff&ring=00ffff&fire=ff00ff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=00ffff&currStreakLabel=00ffff" width="100%"/>
 </p>
 
 <hr/>
