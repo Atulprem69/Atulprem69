@@ -8,10 +8,14 @@
   Passionate developer & problem-solver who loves debugging tricky errors and shipping clean, performant code.
 </h3>
 
-<!-- ======  About Me – Static Pro Card  ====== -->
+<!-- ======  About Me – Pro Static Badge  ====== -->
 <h3 align="center">🔥 About Me</h3>
 <p align="center">
-  <img src="https://cardivo.vercel.app/api?name=Atul+Prem&description=Competitive+programmer+who+loves+learning+new+stuffs.%0AConstantly+exploring+bleeding-edge+technologies.%0APassionate+about+debugging+and+hyper-optimizing+code.&theme=radical&fontSize=22&center=true&width=650&height=120" alt="about-me-card"/>
+  <img alt="about-me" src="https://img.shields.io/badge/Competitive%20programmer%20who%20loves%20learning%20new%20stuffs-%F0%9F%9A%80-FF5000?style=for-the-badge&logo=skillshare&logoColor=white"/>
+  <br/>
+  <img alt="explore" src="https://img.shields.io/badge/Constantly%20exploring%20bleeding--edge%20technologies-%F0%9F%A7%A0-00A4FF?style=for-the-badge&logo=explorer&logoColor=white"/>
+  <br/>
+  <img alt="debug" src="https://img.shields.io/badge/Passionate%20about%20debugging%20and%20hyper--optimizing%20code-%F0%9F%9B%A0-00D4AA?style=for-the-badge&logo=debug&logoColor=white"/>
 </p>
 
 <hr/>
