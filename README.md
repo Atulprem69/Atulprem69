@@ -24,19 +24,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atulprem69&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
   &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/status-online-00ff00?style=flat-square&logo=discord&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/build-passing-00ff00?style=flat-square&logo=webpack&logoColor=white&labelColor=000000"/>
+<img src="https://github-profile-trophy.vercel.app/?username=atulprem69&theme=gruvbox&no-frame=true&margin-w=8" alt="trophies"/>
 </p>
 
 <hr/>
-
-
-<!-- =====  Live Commit Radar (pro++ replacement for trophies)  ===== -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulprem69&theme=react-dark&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&hide_border=true&area=true&area_color=00ff0020" width="100%"/>
-</p>
-
-
 
 <!-- ======  Connect  ====== -->
 <h2 align="center">🔗 Connect with me</h2>
