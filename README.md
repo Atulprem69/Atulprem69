@@ -31,6 +31,20 @@
 
 <hr/>
 
+
+
+
+<!-- =====  Elite Meta Row (100 % working)  ===== -->
+<p align="center">
+  <img src="https://img.shields.io/github/languages/code-size/atulprem69?color=00ff00&style=for-the-badge&logo=github&logoColor=black&label=💾%20size"/>
+  <img src="https://img.shields.io/github/last-commit/atulprem69?color=ff00ff&style=for-the-badge&logo=git&logoColor=white&label=🕒%20push"/>
+  <img src="https://img.shields.io/github/languages/count/atulprem69?color=00ffff&style=for-the-badge&logo=code&logoColor=black&label=🌐%20langs"/>
+</p>
+
+
+
+
+
 <!-- ======  Connect  ====== -->
 <h2 align="center">🔗 Connect with me</h2>
 <p align="center">
