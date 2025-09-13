@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Atul Prem</h1>
 <h3 align="center">Passionate developer and problem solver who loves debugging errors</h3>
 
+<h3 align="left">I'm a passionate developer with a love for learning and problem-solving. I enjoy working with various technologies, debugging complex issues, and optimizing code for efficiency. Always eager to explore new tools and frameworks, I thrive on challenges that push my limits.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulprem69&label=Profile%20views&color=0e75b6&style=flat" alt="atulprem69" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulprem69" alt="atulprem69" /></a> </p>
