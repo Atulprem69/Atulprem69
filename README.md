@@ -9,7 +9,7 @@
 </h3>
 
 <!-- ======  About Me – Pro Static Badge  ====== -->
-<h3 align="center">🔥 About Me</h3>
+<h2 align="center">🔥 About Me</h2>
 <p align="center">
   <img alt="about-me" src="https://img.shields.io/badge/Competitive%20programmer%20who%20loves%20learning%20new%20stuffs-%F0%9F%9A%80-FF5000?style=for-the-badge&logo=skillshare&logoColor=white"/>
   <br/>
