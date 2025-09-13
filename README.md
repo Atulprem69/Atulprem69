@@ -14,7 +14,7 @@
   &nbsp;&nbsp;
   <img src="https://github-profile-trophy.vercel.app/?username=atulprem69&theme=radical&no-frame=true&margin-w=8" alt="trophies"/>
 </p>
-
+<hr/>
 <!-- ======  Connect  ====== -->
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
