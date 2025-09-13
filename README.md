@@ -4,9 +4,13 @@
 </p>
 
 <!-- ======  About Me – Fire  ====== -->
+<!-- ======  About Me – Pro Card  ====== -->
 <h3 align="center">🔥 About Me</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF5000&center=true&vCenter=true&width=600&lines=A+competitive+programmer+who+loves+learning+new+stuffs;Constantly+exploring+bleeding-edge+technologies;Passionate+about+debugging+and+hyper-optimizing+code" alt="Typing"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atulprem69/atulprem69/main/assets/about-me-dark.svg">
+    <img alt="About Me" src="https://raw.githubusercontent.com/atulprem69/atulprem69/main/assets/about-me-light.svg" width="650">
+  </picture>
 </p>
 
 <hr/>
