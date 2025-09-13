@@ -1,24 +1,26 @@
-<!-- =====  Animated Pro Banner  ===== -->
+<!-- ======  Banner  ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Atul+Prem;Full-Stack+%7C+Mobile+%7C+AI+%7C+DevOps;Competitive+Coder+%F0%9F%9A%80;Always+Building%2C+Always+Debugging" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%2C%20I%27m%20Atul%20Prem&fontSize=50&fontAlignY=35&desc=Full-Stack%20%7C%20Mobile%20%7C%20AI%20%7C%20DevOps&descAlignY=55&animation=twinkling" width="100%"/>
 </p>
 
-<!-- =====  Add a thin neon divider  ===== -->
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></p>
+<!-- ======  Intro  ====== -->
+<h3 align="center">
+  Passionate developer & problem-solver who loves debugging tricky errors and shipping clean, performant code.
+</h3>
 
-<!-- =====  Rest of your previous code (unchanged) starts here  ===== -->
+<!-- ======  About Me – Pro Static Badge  ====== -->
 <h2 align="center">🔥 About Me</h2>
 <p align="center">
-  <img alt="line1" src="https://img.shields.io/badge/🚀 Competitive programmer who loves learning new stuffs-ff4d4d?style=flat-square&logo=target&logoColor=white"/>
+  <img alt="about-me" src="https://img.shields.io/badge/Competitive%20programmer%20who%20loves%20learning%20new%20stuffs-%F0%9F%9A%80-FF5000?style=for-the-badge&logo=skillshare&logoColor=white"/>
   <br/>
-  <img alt="line2" src="https://img.shields.io/badge/🧠 Constantly exploring bleeding-edge technologies-4d94ff?style=flat-square&logo=idea&logoColor=white"/>
+  <img alt="explore" src="https://img.shields.io/badge/Constantly%20exploring%20bleeding--edge%20technologies-%F0%9F%A7%A0-00A4FF?style=for-the-badge&logo=explorer&logoColor=white"/>
   <br/>
-  <img alt="line3" src="https://img.shields.io/badge/🛠 Passionate about debugging & hyper-optimizing code-00cc99?style=flat-square&logo=debug&logoColor=white"/>
+  <img alt="debug" src="https://img.shields.io/badge/Passionate%20about%20debugging%20and%20hyper--optimizing%20code-%F0%9F%9B%A0-00D4AA?style=for-the-badge&logo=debug&logoColor=white"/>
 </p>
 
 <hr/>
 
-<!-- =====  Stats row (unchanged)  ===== -->
+<!-- ======  Stats row  ====== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atulprem69&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
   &nbsp;&nbsp;
@@ -27,20 +29,27 @@
 
 <hr/>
 
-<!-- =====  Connect (unchanged)  ===== -->
+<!-- ======  Connect  ====== -->
 <h2 align="center">🔗 Connect with me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/atul-prem-1a7a24263"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
-  <a href="https://www.hackerrank.com/h2128069"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="28"/></a>
-  <a href="mailto:atulprem8069@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
+  <a href="https://linkedin.com/in/atul-prem-1a7a24263" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
+  </a>
+  <a href="https://www.hackerrank.com/h2128069" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="28"/>
+  </a>
+  <a href="mailto:atulprem8069@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
+  </a>
 </p>
 
 <hr/>
 
-<!-- =====  Tech Stack (unchanged)  ===== -->
-<h2 align="center">🛠️ Tech Stack</h2>
-<!--  keep every section exactly as before  -->
-<h4 align="center">Languages</h4>
+<!-- ======  Tech Stack  ====== -->
+<h2 align="center">🛠 Tech Stack</h2>
+
+<!-- Languages -->
+<h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp"/>
@@ -50,7 +59,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
 </p>
 
-<h4 align="center">Frontend</h4>
+<!-- Frontend -->
+<h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
@@ -60,7 +70,8 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/>
 </p>
 
-<h4 align="center">Backend & Database</h4>
+<!-- Backend & DB -->
+<h3 align="center">Backend & Database</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"/>
@@ -71,7 +82,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
 </p>
 
-<h4 align="center">DevOps & Cloud</h4>
+<!-- DevOps & Cloud -->
+<h3 align="center">DevOps & Cloud</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
@@ -80,7 +92,8 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
 </p>
 
-<h4 align="center">AI / Mobile / Misc</h4>
+<!-- AI / Mobile / Misc -->
+<h3 align="center">AI / Mobile / Misc</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/>
@@ -91,7 +104,7 @@
 
 <hr/>
 
-<!-- =====  GitHub Stats (unchanged)  ===== -->
+<!-- ======  GitHub Stats  ====== -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atulprem69&show_icons=true&theme=radical&hide_border=true" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulprem69&layout=compact&theme=radical&hide_border=true" width="49%"/>
@@ -100,7 +113,7 @@
   <img src="https://streak-stats.demolab.com/?user=atulprem69&theme=radical&hide_border=true" alt="streak"/>
 </p>
 
-<!-- =====  Footer (unchanged)  ===== -->
+<!-- ======  Footer  ====== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
