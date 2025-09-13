@@ -24,9 +24,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atulprem69&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/atulprem69?label=%E2%AD%90%20stars&style=flat-square&color=000000&logo=github&logoColor=00ff00"/>
-<img src="https://img.shields.io/github/commit-activity/m/atulprem69?label=%F0%9F%94%A5%20commits&style=flat-square&color=000000&logo=git&logoColor=00ff00"/>
-<img src="https://img.shields.io/github/followers/atulprem69?label=%F0%9F%91%A5%20followers&style=flat-square&color=000000&logo=github&logoColor=00ff00"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulprem69&layout=compact&theme=react-dark&hide_border=true&bg_color=00000000&title_color=00ff00&text_color=ffffff&icon_color=39ff14" width="100%"/>
 </p>
 
 <hr/>
